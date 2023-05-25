@@ -28,4 +28,4 @@ IV. RapidAPI
    
    This is an API which extracts news/article body from a URL and uses GPT to summarize the article content. Useful for text mining purposes. Leverages powerful and
    flexible web scraping engine (ScrapeNinja.net) with high-quality rotating proxies under the hood. In depth review and API implementation details:
-   https://pixeljets.com/blog/gpt-summary-is-broken/ . My video where ChatGPT summary capabilities are explored: https://youtu.be/hRQqJtgYz_Q
+   https://pixeljets.com/blog/gpt-summary-is-broken/ . 
